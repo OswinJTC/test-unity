@@ -203247,7 +203247,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 15, y: 15, z: 15}
+  m_Size: {x: 20, y: 20, z: 20}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1121156369
 PrefabInstance:
@@ -316231,7 +316231,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!114 &1738927825
 MonoBehaviour:
@@ -324054,6 +324054,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58094b50f4b48454cbe7f5ed944234a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  previousRealScene: 
 --- !u!1001 &1790937757
 PrefabInstance:
   m_ObjectHideFlags: 0
